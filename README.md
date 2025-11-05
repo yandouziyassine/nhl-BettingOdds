@@ -23,7 +23,7 @@ This tool combines **live game data** (fetched via the NHL API) and **historical
 - Python 3.8+
 - Required Python libraries: `pandas`, `requests`, `openpyxl`
 - Access to the [NHL API]
-- An Excel file (`historical_data.xlsx`) containing historical team data (see [Data Format](#data-format)).
+- An Excel file (`NHL_data.xlsx`) containing historical team data 
 
 ---
 You are allowed to:
